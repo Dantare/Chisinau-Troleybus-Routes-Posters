@@ -19,7 +19,9 @@ There are two types of posters to develop and implement, both of them serving sp
 ![frontstations_ruta8_traian](https://user-images.githubusercontent.com/12870053/153662404-f2c648e8-ab24-46ab-8cb8-0b317716e899.png)
 
 # Data
+
 **Timetables for each station of each line**: https://rtec.md/category/transport/
+
 **Map**: https://rtec.md/wp-content/themes/newsup/images/ruta-map.jpg
 
 We get most of our data from pre-existing materials made by RTEC and real-life experience. RTEC already has an up-to-date map of all the lines laid out with station names, but sometimes the station names from the map are not the same as the ones on the timetables or two different stations have the same name, in this case we use/create a name that is best fitted for that station based on what is nearby and what the locals might actually call that specific location. Another part are abreviated names. Name of stations and streets based on famous people will have the first name of that person shorttened to their initial: *Teatrul Mihai Eminescu* becomes *Teatrul M. Eminescu*. Universities and some very long names might be abbreviated, this means *Universitatea de Pedagogie Ion Creangă* becomes *UdP* or *Piața Unirii Principatelor* becomes *PUP*.
